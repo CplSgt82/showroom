@@ -646,5 +646,34 @@
     "priority": 30,
     "room_id": "200838",
     "web_url": "https://www.showroom-live.com/46_yakubomio"
+  },
+  {
+    "jpnName": "乃木坂46のオールナイトニッポン",
+    "engName": "nogizaka46ann",
+    "jpnTeam": "2期生",
+    "engTeam": "2nd Gen",
+    "jpnGroup": "乃木坂46",
+    "engGroup": "Nogizaka46",
+    "priority": 30,
+    "room_id": "242067",
+    "web_url": "https://www.showroom-live.com/nogizaka46ann"
+  },
+  {
+    "jpnName": "乃木坂46のオールナイトニッポン超直前スペシャル",
+    "engName": "Pre nogizaka46ann",
+    "jpnTeam": "2期生",
+    "engTeam": "2nd Gen",
+    "jpnGroup": "乃木坂46",
+    "engGroup": "Nogizaka46",
+    "priority": 30,
+    "room_id": "245219",
+    "web_url": "https://www.showroom-live.com/pre_nogizaka46ann"
   }
 ]
+
+
+
+
+
+
+
